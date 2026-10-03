@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Iris Classification using Perceptron and Artificial Neural Network
 
 ## Project Overview
@@ -69,3 +70,7 @@ iris-ann-classification/
 
 ## What I Learned
 This project helped me practice data preprocessing, train/test splitting, feature scaling, label encoding, classification, model evaluation, and building a basic neural network with Keras.
+=======
+# iris-ann-classification
+Iris flower classification using Perceptron and Artificial Neural Network with TensorFlow/Keras.
+>>>>>>> fb26830f5d4579c7c25b7e0377562e78ec9b8142
